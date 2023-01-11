@@ -1,1 +1,1 @@
-# ecommerce-app
+# Store backend using nodejs, mongoDB
